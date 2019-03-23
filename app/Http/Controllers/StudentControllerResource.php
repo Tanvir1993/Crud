@@ -105,7 +105,7 @@ class StudentControllerResource extends Controller
      */
     public function destroy($id)
     {
-        //muhahahah
+      
         $student = Student::where('id',$id)->delete();
         return redirect('/');
     }
