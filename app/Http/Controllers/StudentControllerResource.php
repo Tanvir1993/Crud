@@ -105,7 +105,7 @@ class StudentControllerResource extends Controller
      */
     public function destroy($id)
     {
-        //
+        //ekdm destry hoye jabe
         $student = Student::where('id',$id)->delete();
         return redirect('/');
     }
