@@ -109,4 +109,5 @@ class StudentControllerResource extends Controller
         $student = Student::where('id',$id)->delete();
         return redirect('/');
     }
+
 }
