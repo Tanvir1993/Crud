@@ -2,6 +2,12 @@ https://sportsala.com/server-6/#Pak_vs_Aus_Live_Here_Server_2
 
 https://bikroy.com/en/ad/macbook-pro-15-8gb-ram-for-sale-dhaka
 
+https://laravel.com/docs/5.6/migrations#foreign-key-constraints
+
+https://codeburst.io/just-in-case-laravel-create-foreign-key-in-migration-9d561cc878a8
+
+https://laravel.com/docs/5.8/eloquent-relationships#one-to-one
+
 <p align="center"><img src="https://laravel.com/assets/img/components/logo-laravel.svg"></p>
 
 <p align="center">
